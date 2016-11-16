@@ -1,0 +1,20 @@
+{
+    "name" : "Fortune Cookie Consent Policy WordPress Plugin",
+    "slug" : "fortune-cookie-consent-policy",
+    "homepage" : "https://codecanyon.net/user/kisded/portfolio",
+    "download_url" : "https://rawgit.com/sfatfarma/fortune/master/fortune-cookie-consent-policy.zip",
+    
+    "version" : "1.0",
+    "requires" : "2.7",
+    "tested" : "4.6",
+    "last_updated" : "2016-11-16",
+    
+    "author" : "kisded",
+    "author_homepage" : "https://codecanyon.net/user/kisded/portfolio",
+    
+    "sections" : 
+    {
+        "description" : "<p>EU law cookie consent policy plugin - a complete plugin that has every option for configuring the popup notice that fits best for your website and is fully compatible with every current law and regulation regarding cookie usage!</p>",
+        "changelog" : "<strong>Version 1.0 Release Date 2016-11-11</strong> <ul> <li>First version released!</li> </ul>"
+    }
+}
