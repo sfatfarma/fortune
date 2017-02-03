@@ -4,17 +4,17 @@
     "homepage" : "https://codecanyon.net/user/kisded/portfolio",
     "download_url" : "https://rawgit.com/sfatfarma/fortune/master/fortune-cookie-consent-policy.zip",
     
-    "version" : "1.0",
+    "version" : "1.1",
     "requires" : "2.7",
     "tested" : "4.7",
-    "last_updated" : "2016-11-26",
+    "last_updated" : "2017-02-03",
     
-    "author" : "kisded",
+    "author" : "CodeRevolution",
     "author_homepage" : "https://codecanyon.net/user/kisded/portfolio",
     
     "sections" : 
     {
         "description" : "<p>EU law cookie consent policy plugin - a complete plugin that has every option for configuring the popup notice that fits best for your website and is fully compatible with every current law and regulation regarding cookie usage!</p>",
-        "changelog" : "<strong>Version 1.0 Release Date 2016-11-26</strong> <ul> <li>First version released!</li> </ul>"
+        "changelog" : "<strong>Version 1.0 Release Date 2016-11-26</strong> <ul> <li>First version released!</li> </ul><strong>Version 1.0.1 Release Date 2016-11-28</strong> <ul> <li>Some minor fixes!</li> </ul><strong>Version 1.1 Release Date 2016-02-03</strong> <ul> <li>Added multisite support!</li> </ul>"
     }
 }
